@@ -12,7 +12,7 @@ github_repo: "https://github.com/Gaiuss/Gaiuss.github.io" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "It's what you do in the dark, that puts you in the light"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-Gaius-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
